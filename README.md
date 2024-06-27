@@ -1,2 +1,2 @@
 # Game_dev
-Gry - proste obiektowe
+Gra polegająca na omijaniu przeszkód
